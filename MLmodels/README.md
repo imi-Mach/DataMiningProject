@@ -1,3 +1,3 @@
 # MLmodels
 
-# Isaac was here
+Jupyter Notebook source code for CNN model.
